@@ -7,6 +7,6 @@
         "UnzipUpdateSource": true,
         "OverwriteExistingFiles": false,
         "DeleteAfterExtract": false,
-        "OneShot": true
+        "OneShot": false
     }
 ]
