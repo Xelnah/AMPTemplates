@@ -3,7 +3,7 @@
         "UpdateStageName": "",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "FetchURL",
-        "UpdateSourceData": "https://github.com/Xelnah/experimental/blob/main/SRS.zip",
+        "UpdateSourceData": "https://github.com/Xelnah/experimental/raw/refs/heads/main/SRS.zip",
         "UnzipUpdateSource": true,
         "OverwriteExistingFiles": false,
         "DeleteAfterExtract": false,
